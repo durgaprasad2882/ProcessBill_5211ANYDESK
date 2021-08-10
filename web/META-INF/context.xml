@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context antiJARLocking="true" path="/ProcessSalaryBill">
+    
+    <Resource auth="Container" driverClassName="org.postgresql.Driver" maxIdle="30" maxTotal="100" maxWaitMillis="10000" name="jdbc/HRMSDSPROCESS" password="cmgi" type="javax.sql.DataSource" url="jdbc:postgresql://172.16.1.14:6432/hrmis" username="hrmis2"/>
+    
+</Context>
